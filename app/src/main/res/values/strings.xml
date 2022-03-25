@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="advice_tooHeavy">您该努力减肥啦！</string>
+    <string name="advice_tooThin">您太瘦啦！多吃一点！</string>
+    <string name="advice_middle">您的体型非常棒！继续保持哦！</string>
+    <string name="height">身高（m）</string>
+    <string name="weight">体重（kg）</string>
+    <string name="bmi_btn">计算BMI的值</string>
+    <string name="bmi_result">您的BMI数值为：</string>
+    <string name="btn_name">提交</string>
+</resources>
